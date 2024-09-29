@@ -2,8 +2,6 @@ import { useEffect } from "react";
 import { useState } from "react";
 import "./App.css";
 
-import react from "react";
-
 function App() {
   const [data, setdata] = useState([]);
   const [load, setload] = useState(true);
@@ -44,7 +42,7 @@ function App() {
         </button>
       </div>
       <div className="main">
-      <img src={data.Poster} alt="image" className="img"></img>
+      <img src={data.Poster} className="img" alt="image"></img>
       <div className="tx">
         <h1>Titel : {data.Title}</h1>
         <h1>Type : {data.Type}</h1>
