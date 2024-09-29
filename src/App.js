@@ -8,7 +8,7 @@ function App() {
   const [user, setuser] = useState("iron man");
 
   useEffect(() => {
-    fetch(`http://www.omdbapi.com/?t=${user}&apikey=b144f9da`)
+    fetch(`https://www.omdbapi.com/?t=${user}&apikey=b144f9da`)
       .then((res) => res.json())
       .then((jsondata) => {
         setdata(jsondata);
