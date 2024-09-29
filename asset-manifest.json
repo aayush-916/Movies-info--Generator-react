@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movies-info--Generator-react/static/css/main.8005a6be.css",
+    "main.js": "/Movies-info--Generator-react/static/js/main.fce6875f.js",
+    "static/js/787.310b28fc.chunk.js": "/Movies-info--Generator-react/static/js/787.310b28fc.chunk.js",
+    "index.html": "/Movies-info--Generator-react/index.html",
+    "main.8005a6be.css.map": "/Movies-info--Generator-react/static/css/main.8005a6be.css.map",
+    "main.fce6875f.js.map": "/Movies-info--Generator-react/static/js/main.fce6875f.js.map",
+    "787.310b28fc.chunk.js.map": "/Movies-info--Generator-react/static/js/787.310b28fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8005a6be.css",
+    "static/js/main.fce6875f.js"
+  ]
+}
